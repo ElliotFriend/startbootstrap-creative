@@ -1,9 +1,16 @@
-title: Elliot Voris
+url: https://elliotfriend.github.io
+baseurl: '/startbootstrap-creative-jekyll'
+
+# Site Settings
+title: "Your favorite source of free bootstrap themes"
 email: elliot@voris.me
-description: Hello Description
-author: Elliot Voris
-baseurl: ""
-url: ""
+description: "Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!"
+
+# Color Settings (hex-codes without the leading hash-tag)
+color:
+  primary: 000000
+  secondary: ffffff
+  secondary-dark: ffffff
 
 # Services Settings
 services:
