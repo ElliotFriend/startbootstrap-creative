@@ -1,0 +1,44 @@
+url: https://elliotfriend.github.io
+baseurl: '/startbootstrap-creative-jekyll'
+
+# Site Settings
+title: "Your favorite source of free bootstrap themes"
+email: elliot@voris.me
+phone: 123-456-6789
+description: "Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!"
+
+# Color Settings (hex-codes without the leading hash-tag)
+color:
+  primary: 000000
+  secondary: ffffff
+  secondary-dark: ffffff
+
+# Services Settings
+services:
+  - name: Sturdy Templates
+    icon: gem
+    description: Our templates are updated regularly so they don't break.
+  - name: Ready to Ship
+    icon: paper-plane
+    description: You can use this theme as is, or you can make changes!
+  - name: Up to Date
+    icon: code
+    description: We update dependencies to keep things fresh.
+  - name: Made with Love
+    icon: heart
+    description: You have to make your websites with love these days!
+
+# Download Settings
+download-link: "https://github.com/elliotfriend/startbootstrap-creative-jekyll"
+download-text: Download Now!
+
+# Collections Settings
+collections:
+  - projects
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
