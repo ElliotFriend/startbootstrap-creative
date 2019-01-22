@@ -285,8 +285,8 @@ DEPENDENCIES
   github-pages
   html-proofer
   jekyll
-  jekyll-feed (~> 0.6)
-  jekyll-paginate (~> 1.1.0)
+  jekyll-feed
+  jekyll-paginate
   jekyll-theme-clean-blog!
   rake
   travis
