@@ -4,3 +4,18 @@ description: Hello Description
 author: Elliot Voris
 baseurl: ""
 url: ""
+
+# Services Settings
+services:
+  - name: Sturdy Templates
+    icon: gem
+    description: Our templates are updated regularly so they don't break.
+  - name: Ready to Ship
+    icon: paper-plane
+    description: You can use this theme as is, or you can make changes!
+  - name: Up to Date
+    icon: code
+    description: We update dependencies to keep things fresh.
+  - name: Made with Love
+    icon: heart
+    description: You have to make your websites with love these days!
