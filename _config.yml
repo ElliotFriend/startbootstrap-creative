@@ -28,6 +28,10 @@ services:
     icon: heart
     description: You have to make your websites with love these days!
 
+# Download Settings
+download-link: "https://github.com/elliotfriend/startbootstrap-creative-jekyll"
+download-text: Download Now!
+
 # Collections Settings
 collections:
   - projects
