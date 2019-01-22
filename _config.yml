@@ -27,3 +27,14 @@ services:
   - name: Made with Love
     icon: heart
     description: You have to make your websites with love these days!
+
+# Collections Settings
+collections:
+  - projects
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
